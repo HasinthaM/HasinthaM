@@ -1,6 +1,13 @@
-## Hi 👋 I'am Hasintha M. Gunawardana
 
-##### - 🌱 I’m currently learning javascript , React
+<h1 align="center">Hi 👋 I'am Hasintha M. Gunawardana</h1>
+<h3 align="center">Web developer | Full stack, full of passion!</h3>
+
+
+ - 🌱 I’m currently learning **Javascript , React**
+   
+ -  💬 Ask me about **Web , Frontend**
+ -  📫 How to reach me :  **gunawardanahmadushan@gmail.com**
+
 
 <!--
 **HasinthaM/HasinthaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
