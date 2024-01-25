@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+!DOCKTYPE HTML
+<html>
+  <body>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hasintha-gunawardana-269a04292" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/hasintha-gunawardana-269a04292?trk=profile-badge">Hasintha Gunawardana</a></div>
-              
+    </body>
+</html>
