@@ -1,6 +1,6 @@
 ## Hi 👋 I'am Hasintha M. Gunawardana
 
-##### - 🌱 I’m currently learning javascript
+##### - 🌱 I’m currently learning javascript , React
 
 <!--
 **HasinthaM/HasinthaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
