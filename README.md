@@ -4,7 +4,7 @@
 
 
  - 🌱 I’m currently learning **Javascript , React**
-   
+ - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
  -  💬 Ask me about **Web , Frontend**
  -  📫 How to reach me :  **gunawardanahmadushan@gmail.com**
 
