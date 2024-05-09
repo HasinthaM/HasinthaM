@@ -3,7 +3,7 @@
 <h3 align="center">Web developer | Full stack, full of passion!</h3>
 
 
- - 🌱 I’m currently learning **Javascript , React**
+ - 🌱 I’m currently learning **Javascript , React , MERN Stack**
    
  - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
    
