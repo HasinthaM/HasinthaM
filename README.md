@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋 I'am Hasintha M. Gunawardana</h1>
 <h3 align="center">Web developer | Full stack, full of passion!</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HasinthaM&label=Profile%20views&color=0e75b6&style=plastic" alt="HasinthaM" /> </p>
 
 
  - 🌱 I’m currently learning **Java , Spring Boot , Oracle**
