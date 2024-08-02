@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋 I'am Hasintha M. Gunawardana</h1>
 <h3 align="center">Web developer | Full stack, full of passion!</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HasinthaM&label=Profile%20views&color=0e75b6&style=plastic" alt="HasinthaM" /> </p>
 
 
  - 🌱 I’m currently learning **Java , Spring Boot , Oracle**
@@ -26,6 +25,10 @@
   <a href="https://github.com/HasinthaM"><img alt="Hasintha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HasinthaM&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HasinthaM&label=Profile%20views&color=0e75b6&style=plastic" alt="HasinthaM" /> </p>
+
 
 <!--
 **HasinthaM/HasinthaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
