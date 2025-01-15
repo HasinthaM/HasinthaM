@@ -7,7 +7,7 @@
    
  - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
    
- -  💬 Ask me about **Web , Frontend**
+ -  💬 Ask me about **Cloud Computing , DevOps**
    
  -  📫 How to reach me :  **gunawardanahmadushan@gmail.com**
 
